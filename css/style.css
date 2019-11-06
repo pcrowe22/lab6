@@ -1,7 +1,7 @@
 #main-navbar{
-	/**/background-color: blue;
-	/**/width: 100%;
-	/**/overflow: hidden;
+	background-color: blue;
+	width: 100%;
+	overflow: hidden;
   float: left;
 	display: block;
 }
@@ -18,19 +18,19 @@
 	left: 50%;
 }
 #main-navbar ul li{
-	/**/right: 50%;
-	/**/float: left;
-	/**/position: relative;
-	/**/background-color: #000;
-	/**/padding: 10px 20px;
+	right: 50%;
+	float: left;
+	position: relative;
+	background-color: #000;
+	padding: 10px 20px;
 }
 #main-navbar ul li a{
-	/**/text-decoration: none;
-	/**/color: #fff;
-	/**/position: relative;
+	text-decoration: none;
+	color: #fff;
+	position: relative;
 }
 #onpage{
-	/**/text-decoration: underline overline;
+	text-decoration: underline overline;
 }
 #sidebar{
 	position: fixed;
