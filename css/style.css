@@ -13,10 +13,12 @@
 	margin: 0;
 	padding: 0;
 	display: block;
-	right: 50%;
+	position: relative;
+	float: left;
+	left: 50%;
 }
 #main-navbar ul li{
-	/**/left: 50%;
+	/**/right: 50%;
 	/**/float: left;
 	/**/position: relative;
 	/**/background-color: #000;
@@ -29,8 +31,7 @@
 }
 #onpage{
 	/**/text-decoration: underline overline;
-	position: relative;
-	float: left;
+
 }
 
 
