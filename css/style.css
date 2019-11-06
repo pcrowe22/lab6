@@ -11,7 +11,7 @@
 	overflow: hidden;
 	display: block;
 	left: 50%;
-	right: 50%;
+	/*right: 50%;*/
 }
 #main-navbar ul li{
 	text-decoration: none;
@@ -27,7 +27,7 @@
 #onpage{
 	text-decoration: underline overline;
 	float: left;
-		position: relative;
+	position: relative;
 }
 
 /*
