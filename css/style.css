@@ -1,16 +1,18 @@
 #main-navbar{
 	/**/background-color: blue;
 	/**/width: 100%;
+	/**/overflow: hidden;
   float: left;
 	display: block;
+}
+#navbar-container{
+	
 }
 #main-navbar ul{
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
-	/**/overflow: hidden;
 	display: block;
-
 	right: 50%;
 }
 #main-navbar ul li{
@@ -23,24 +25,15 @@
 #main-navbar ul li a{
 	/**/text-decoration: none;
 	/**/color: #fff;
-
 	/**/position: relative;
 }
 #onpage{
-	text-decoration: underline overline;
+	/**/text-decoration: underline overline;
 	position: relative;
 	float: left;
 }
 
 
-
-
-
-
-
-
-
-*/
 
 
 
