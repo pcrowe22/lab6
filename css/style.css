@@ -10,12 +10,14 @@
 	padding: 0;
 	overflow: hidden;
 	display: block;
-	left: 50%;
-	/*right: 50%;*/
+
+	right: 50%;
 }
 #main-navbar ul li{
 	text-decoration: none;
+	left: 50%;
 	float: left;
+	position: relative;
 }
 #main-navbar ul li a{
 	color: #fff;
@@ -27,10 +29,7 @@
 #onpage{
 	text-decoration: underline overline;
 	float: left;
-	position: relative;
 }
-
-/*
 
 
 
